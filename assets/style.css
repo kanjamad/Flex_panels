@@ -41,10 +41,10 @@ body {
   flex-direction: column;
 }
 
-.panel1 { background-image:url(https://pixabay.com/get/e137b80728fc1c22d2524518a33219c8b66ae3d01db7114297f6c778/thailand-829808_1280.jpg); }
+.panel1 { background-image:url(/img/thailand-829808_1280.jpg); }
 .panel2 { background-image:url(https://source.unsplash.com/rFKUFzjPYiQ/1500x1500); }
 .panel3 { background-image:url(https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/22046488_10212858678155448_8520396536083898557_n.jpg?_nc_cat=102&_nc_ht=scontent-sjc3-1.xx&oh=2da73160851918ddbc4baa54ee12e2de&oe=5C946E4B); }
-.panel4 { background-image:url(https://pixabay.com/get/e834b50620f0003ed1584d05fb0938c9bd22ffd41cb5174196f3c17bae/friends-1149841_1280.jpg); }
+.panel4 { background-image:url(/img/Thailand-Samui-Nang-Yuan-Island-1280x1024.jpg); }
 .panel5 { background-image:url(https://source.unsplash.com/3MNzGlQM7qs/1500x1500); }
 
 /* Flex Items */
