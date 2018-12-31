@@ -41,10 +41,10 @@ body {
   flex-direction: column;
 }
 
-.panel1 { background-image:url(/img/thailand-829808_1280.jpg); }
+.panel1 { background-image:url(https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/46762115_10216005717269459_3718606878427578368_n.jpg?_nc_cat=101&_nc_ht=scontent-sjc3-1.xx&oh=f85dd0df573862f4ba8d30fb214bd864&oe=5CD61535); }
 .panel2 { background-image:url(https://source.unsplash.com/rFKUFzjPYiQ/1500x1500); }
 .panel3 { background-image:url(https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/22046488_10212858678155448_8520396536083898557_n.jpg?_nc_cat=102&_nc_ht=scontent-sjc3-1.xx&oh=2da73160851918ddbc4baa54ee12e2de&oe=5C946E4B); }
-.panel4 { background-image:url(/img/Thailand-Samui-Nang-Yuan-Island-1280x1024.jpg); }
+.panel4 { background-image:url(https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/33693845_10214705903374924_3239919016508129280_n.jpg?_nc_cat=108&_nc_ht=scontent-sjc3-1.xx&oh=d1df24c376683133e5dbd52571c3c019&oe=5C8BE584); }
 .panel5 { background-image:url(https://source.unsplash.com/3MNzGlQM7qs/1500x1500); }
 
 /* Flex Items */
